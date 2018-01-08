@@ -7,8 +7,9 @@ public class JavaFirst {
 	@Test
 	public void testHelloWrold() {
 
-		System.out.println("HelloGit666!");
-		System.out.println("HelloGit666!");
+		System.out.println("HelloGit123!");
+		System.out.println("HelloGit123!");
+		System.out.println("HelloGit123!");
 		System.out.println("HelloWorld!");
 	}
 }
