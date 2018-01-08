@@ -6,6 +6,7 @@ public class JavaFirst {
 
 	@Test
 	public void testHelloWrold() {
+		System.out.println("HelloGit!");
 		System.out.println("HelloWorld!");
 	}
 }
